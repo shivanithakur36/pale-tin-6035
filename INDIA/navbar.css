@@ -1,0 +1,47 @@
+.Idiv{
+    height:25px;
+    width:80%;
+    /* border:2px solid red; */
+    margin-top:-5px;
+    justify-content: space-between;
+    display:flex;
+
+}
+.inside_div{
+    height:25px;
+    width:1220px;
+    border:1px solid blue;
+    font-family: 'Gill Sans';
+    color: grey;
+    font-size: 15px;
+    border: 0ch;
+
+}
+.first_hr{
+    margin-top:-5px;
+
+}
+.second_part{
+    height: 100px;
+    width:60%;
+    border:1px solid yellow;
+    margin:auto;
+    display:flex;
+}
+.first{
+    height:100px;
+    width:20%;
+    border:1px solid green;
+
+}
+.logo_img{
+
+    height:70%;
+    width:auto;
+
+}
+.second{
+    height:100px;
+    width:20%;
+    border:1px solid red;
+}
